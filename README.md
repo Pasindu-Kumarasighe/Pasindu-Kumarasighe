@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left">Hi There, I'm Pasindu Kumarasinghe! 👋</h1>
 
-<!--
-**Pasindu-Kumarasighe/Pasindu-Kumarasighe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱About Me
 
-Here are some ideas to get you started:
+- 👑 Founder at **Z4 DEV & Z4 EDITz** 
+- 💚 Graphic Designer at [**Fiverr**](https://www.ebuildersecurity.com/) 
+- 💜 Developer at [**Discord**](https://discord.com/)  
+- 📚 Proud to be a [**Nayaken**](https://www.bcg.lk/)
+- 😄 Pronouns : **He/Him**
+- 🏡 Lives in **Gampaha, Sri Lanka** 
+- 📧 Mail : **pasinduchanmira2002@gmail.com** 
+- 📞 WhatsApp : [**+94 77 6333 548**](https://wa.me/message/R52ZDBKLUBS7L1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩Technologies I Work With
+
+- **Programming Languages**: Java, PHP, Lua, TypeScript, JavaScript
+- **Frameworks & Libraries**: React, Node.js, Bootstrap, jQuery, Laravel
+- **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB, InteliJ
+
+### 📩Connect with Me
+- **Email**: [pasindukumarasinghe2002@gmail.com](pasindukumarasinghe2002@gmail.com)
+- **LinkedIn**: [Pasindu Kumarasinghe](https://www.linkedin.com/in/pasindu-kumarasinghe)
