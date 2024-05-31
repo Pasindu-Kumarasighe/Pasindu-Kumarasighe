@@ -8,8 +8,6 @@
 - 📚 Proud to be a [**Nayaken**](https://www.bcg.lk/)
 - 😄 Pronouns : **He/Him**
 - 🏡 Lives in **Gampaha, Sri Lanka** 
-- 📧 Mail : **pasinduchanmira2002@gmail.com** 
-- 📞 WhatsApp : [**+94 77 6333 548**](https://wa.me/message/R52ZDBKLUBS7L1)
 
 ### 🧩Technologies I Work With
 
@@ -18,5 +16,6 @@
 - **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB, InteliJ
 
 ### 📩Connect with Me
-- **Email**: [pasindukumarasinghe2002@gmail.com](pasindukumarasinghe2002@gmail.com)
-- **LinkedIn**: [Pasindu Kumarasinghe](https://www.linkedin.com/in/pasindu-kumarasinghe)
+- **Email** : [pasindukumarasinghe2002@gmail.com](pasindukumarasinghe2002@gmail.com)
+- **LinkedIn** : [Pasindu Kumarasinghe](https://www.linkedin.com/in/pasindu-kumarasinghe)
+- **WhatsApp** : [+94 77 6333 548](https://wa.me/message/R52ZDBKLUBS7L1)
