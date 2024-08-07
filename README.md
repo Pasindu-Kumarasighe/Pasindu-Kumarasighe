@@ -1,13 +1,11 @@
-<h1 align="left">Hi There, I'm Pasindu Kumarasinghe! 👋</h1>
+<h1 align="left">Hi There, I'm Spyco! 👋</h1>
 
 ### 🌱About Me
 
-- 👑 Founder at **Z4 DEV & Z4 EDITz** 
+- 👑 Founder at **SpycoDev** 
 - 💚 Graphic Designer at [**Fiverr**](https://www.ebuildersecurity.com/) 
 - 💜 Developer at [**Discord**](https://discord.com/)  
-- 📚 Proud to be a [**Nayaken**](https://www.bcg.lk/)
 - 😄 Pronouns : **He/Him**
-- 🏡 Lives in **Gampaha, Sri Lanka** 
 
 ### 🧩Technologies I Work With
 
