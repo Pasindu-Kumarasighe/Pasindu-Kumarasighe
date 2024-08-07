@@ -14,6 +14,5 @@
 - **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB, InteliJ
 
 ### 📩Connect with Me
-- **Email** : [pasindukumarasinghe2002@gmail.com](pasindukumarasinghe2002@gmail.com)
-- **LinkedIn** : [Pasindu Kumarasinghe](https://www.linkedin.com/in/pasindu-kumarasinghe)
-- **WhatsApp** : [+94 77 6333 548](https://wa.me/message/R52ZDBKLUBS7L1)
+- **Discord** : [Join SpycoDev Discord Server](https://discord.gg/uXUkAnX9qj)
+- **YouTube** : [SpycoDev Official YouTube Channel](https://www.youtube.com/channel/UCfO965-7wLjzRIDR0t5ZQBw)
